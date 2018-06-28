@@ -1,0 +1,1 @@
+# Batch_Normalization_MNIST_Numpy
